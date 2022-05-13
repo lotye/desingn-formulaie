@@ -1,0 +1,96 @@
+.contenaire1 {
+    width: 100%;
+    height: 500px;
+    border: 2px solid;
+    display: flex;
+    position: relative;
+    
+    
+}
+.body{
+    color: white;
+    padding: 100px;
+}
+.souscontenaire1{
+    width: 100%;
+  
+    background: linear-gradient(125deg,rgba(255, 0, 191, 0.637) 60% ,white, blue 15%, rgb(124, 122, 0), rgb(122, 82, 21),pink 30%);
+    
+}
+.souscontenaire2{
+    
+width: 20%;
+background-color: #A9D7E9;
+height: 500px;
+
+}
+
+.contenaire2 {
+display: flex;
+ position: absolute; 
+ justify-content: space-between;
+height: 500px;
+width: 100%;
+ top: 0px;
+left: 0px; 
+
+}
+.leftcontener{
+display: block;
+color: white;
+align-items: center;
+padding-left: 50px;
+margin-left: 70px;
+padding-top: 150px;
+
+
+
+
+
+}
+.grand{
+    padding: 100px;
+}
+.haut {
+    padding-top: 100px;
+    margin-left: 50px;
+}
+.bas{
+    padding-top: 100px;
+    margin-left: 50px;
+    
+   
+}
+.text_bas img{
+    display:inline-block;
+ 
+}
+textarea{
+    width: 400px;
+}
+.text_bas{
+    margin-bottom: 15px;
+}
+input{
+    width: 400px;
+}
+.hauteur{ 
+  display: block; 
+}
+button{
+    background-color: transparent;
+    color: white;
+    width: 200px;
+    display: flex;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.form{
+    color: white;
+}
+.rightcontrner{
+padding-top: 250px;
+margin-left: 120px;
+padding-right: 250px;
+
+}
